@@ -1,1 +1,1 @@
-![Tên ảnh hiển thị](./login.png)
+![Logo](https://raw.githubusercontent.com/vandoanblack/simple/public/result/login.png)
