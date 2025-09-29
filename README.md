@@ -1,1 +1,1 @@
-![Logo](https://raw.githubusercontent.com/vandoanblack/simple/public/result/login.png)
+https://raw.githubusercontent.com/vandoanblack/simple/public/result/login.png
