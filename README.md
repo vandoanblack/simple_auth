@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/vandoanblack/simple/public/result/login.png
+public/result/login.png
